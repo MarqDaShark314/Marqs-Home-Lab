@@ -1,0 +1,90 @@
+# Homelab Project Plan
+
+## Objective
+Build a real-world IT lab that produces portfolio-ready proof and leads to entry-level IT opportunities.
+
+## Strategy
+Progress from **infrastructure → services → reliability → optimization**, documenting each phase as a standalone GitHub post.
+
+Each phase =  
+- Build something real  
+- Prove a skill  
+- Publish it  
+
+---
+
+## Phases
+
+### 1. Foundation (Infrastructure)
+Set up virtualization environment
+
+- Install Proxmox
+- Create virtual machines
+- Configure basic networking
+
+**Outcome:**  
+Working lab environment
+
+---
+
+### 2. Core Services (Functionality)
+Deploy usable systems
+
+- Web server
+- File server
+- Internal connectivity
+
+**Outcome:**  
+Lab provides real services
+
+---
+
+### 3. Monitoring (Visibility)
+Track system performance
+
+- Install monitoring tools
+- View CPU, RAM, uptime
+
+**Outcome:**  
+System observability
+
+---
+
+### 4. Backup (Reliability)
+Protect and restore data
+
+- Automate backups
+- Test recovery
+
+**Outcome:**  
+Resilient system
+
+---
+
+### 5. Optimization (Scale)
+Improve efficiency + expand
+
+- Tune resources
+- Add services or containers
+
+**Outcome:**  
+Scalable, efficient system
+
+---
+
+## Deliverables
+
+- 5 GitHub posts (one per phase)
+- Working homelab
+- Screenshots + documentation
+- Clear explanation of system
+
+
+---
+
+## Success Criteria
+
+- System runs multiple services
+- You can explain how everything works
+- Each phase is documented publicly
+- Projects demonstrate job-relevant skills
