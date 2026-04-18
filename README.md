@@ -1,4 +1,4 @@
-# Home-Lab---IT-Portfolio---Income-Pipeline
+# Home-Lab--IT-Portfolio--Income-Pipeline
 Building a real-world IT environment from scratch to develop job-ready skills, document proof, and convert that into career opportunities and income.
 
 This project is not just about learning — it’s about turning skills into proof, and proof into opportunities.
@@ -45,3 +45,12 @@ Phase 5 — Portfolio → Income
 Publish polished documentation
 Apply for IT roles
 Offer freelance services
+
+## Skills Obtained
+Infrastructure & Virtualization
+Networking Fundamentals
+System AdministratContainerizationion
+Troubleshooting & Problem Solving
+Monitoring & System Awareness
+Automation
+Documentation & Communication
