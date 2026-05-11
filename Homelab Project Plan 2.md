@@ -18,21 +18,23 @@ Each phase =
 ### 1. Foundation (Infrastructure)
 Set up virtualization environment
 
-- Install Proxmox
-- Create virtual machines
-- Configure basic networking
+- Install Proxmox ✅
+- Create virtual machines & containers☑️
+- Configure basic networking ✅
 
 **Outcome:**  
-Working lab environment
+Working lab environment ☑️
 
 ---
 
 ### 2. Core Services (Functionality)
 Deploy usable systems
 
-- Web server
+- Web server ✅
+- Reverse proxy
+- Gitea 
 - File server
-- Internal connectivity
+- Internal connectivity ✅
 
 **Outcome:**  
 Lab provides real services
